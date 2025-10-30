@@ -1,0 +1,35 @@
+# Eva-01 colors for Alacrity
+
+[colors]
+
+[colors.primary]
+background = "#161616"
+foreground = "#f2f4f8"
+
+[colors.cursor]
+text = "#161616"
+cursor = "#f2f4f8"
+
+[colors.selection]
+text = "#f2f4f8"
+background = "#2a2a2a"
+
+[colors.normal]
+black = "#484848"
+red = "#c95e16"
+green = "#537517"
+yellow = "#87ff5f"
+blue = "#a271f0"
+magenta = "#e6803c"
+cyan = "#c95e16"
+white = "#dfdfe0"
+
+[colors.bright]
+black = "#484848"
+red = "#c95e16"
+green = "#602594"
+yellow = "#537517"
+blue = "#a271f0"
+magenta = "#e6803c"
+cyan = "#c95e16"
+white = "#dfdfe0"
