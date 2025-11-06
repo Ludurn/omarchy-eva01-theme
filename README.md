@@ -4,8 +4,9 @@ An *Evangelion* TV series inspired theme for [Omarchy](https://omarchy.org), the
 
 ## Preview
 
-![preview image 1](https://i.imgur.com/oaEp3oo.png)
-![preview image 2](https://i.imgur.com/s8wnF2X.png)
+![preview image 1](https://i.imgur.com/nFbxOPZ.png)
+![preview image 2](https://i.imgur.com/mzEXOLA.png)
+
 
 ## Installation
 
