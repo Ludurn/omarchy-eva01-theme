@@ -1,8 +1,6 @@
 /* ────────────────────────────────────────────────────────────
  * Omarchy Custom Theme for Waybar
- * Generated with Omarchist
  * ────────────────────────────────────────────────────────────
  */
-
-@define-color background #1a1a1a;
+@define-color background #141414;
 @define-color foreground #87ff5f;
